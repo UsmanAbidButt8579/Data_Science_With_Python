@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "c:\Users\alias\.vscode\extensions\ms-python.python-2021.12.1559732655\pythonFiles\shell_exec.py", line 26, in <module>
+    subprocess.check_call(shell_args, stdout=sys.stdout, stderr=sys.stderr)
+  File "C:\Users\alias\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 369, in check_call
+    raise CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command '['C:/Users/alias/AppData/Local/Programs/Python/Python310/python.exe', '-m', 'pip', 'install', '-U', '--force-reinstall', 'ipykernel', 'C:/Users/alias/AppData/Local/Temp/tmp-2548WjNsqhrmcTs7.logpip', 'install']' returned non-zero exit status 1.
