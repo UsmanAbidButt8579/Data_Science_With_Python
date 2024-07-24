@@ -1,1 +1,1 @@
-This is my first learning towords data science
+This is my first learning towards data science
